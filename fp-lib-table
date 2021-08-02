@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "motor-mount")(type "KiCad")(uri "${KIPRJMOD}/components/motor-mount.pretty")(options "")(descr ""))
+  (lib (name "STN4NF20L")(type "KiCad")(uri "${KIPRJMOD}/components/STN4NF20L")(options "")(descr ""))
+  (lib (name "250X15W104MV4E")(type "KiCad")(uri "${KIPRJMOD}/components/250X15W104MV4E/250X15W104MV4E.pretty")(options "")(descr ""))
+)
