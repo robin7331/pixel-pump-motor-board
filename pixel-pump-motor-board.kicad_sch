@@ -930,30 +930,30 @@
 
   (symbol (lib_id "motor-mount:motor-connector") (at 99.06 49.53 180) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid d44ad972-8a51-43a4-b571-d28629d63fde)
-    (property "Reference" "J2" (id 0) (at 95.885 45.72 0))
-    (property "Value" "motor-connector" (id 1) (at 89.535 47.625 0))
+    (uuid 487963d3-ed36-4ffe-bbc0-8af87b349b27)
+    (property "Reference" "J2" (id 0) (at 99.06 44.45 0))
+    (property "Value" "motor-connector" (id 1) (at 92.075 46.99 0))
     (property "Footprint" "motor-mount:motor-mount" (id 2) (at 99.06 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 99.06 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 86774bda-c79b-4097-8d23-dbc491592a9d))
+    (pin "1" (uuid 79015723-23af-4c19-8fa9-528ee66e0b38))
   )
 
   (symbol (lib_id "motor-mount:motor-connector") (at 99.06 59.69 180) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid 047b9ede-dc55-4807-a86d-647ff742c18f)
-    (property "Reference" "J3" (id 0) (at 95.885 63.5 0))
-    (property "Value" "motor-connector" (id 1) (at 89.535 61.595 0))
+    (uuid c332f8cc-90f7-4adf-b7c8-5b9cae9f618d)
+    (property "Reference" "J3" (id 0) (at 99.06 54.61 0))
+    (property "Value" "motor-connector" (id 1) (at 92.075 57.15 0))
     (property "Footprint" "motor-mount:motor-mount" (id 2) (at 99.06 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 99.06 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21eee35f-097e-4f1f-be36-efa1dfd5b106))
+    (pin "1" (uuid 0b812045-2188-4e3c-9917-8adcc7d1d0f2))
   )
 
   (symbol (lib_id "power:+12V") (at 46.99 84.455 180) (unit 1)
@@ -1268,7 +1268,7 @@
     (property "Reference" "C1" (id 0) (at 161.925 55.2449 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C_Polarized" (id 1) (at 161.925 57.7849 0)
+    (property "Value" "100n 25V" (id 1) (at 161.925 57.7849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A" (id 2) (at 159.0802 59.69 0)
@@ -1388,7 +1388,7 @@
       (reference "#PWR0104") (unit 1) (value "+12V") (footprint "")
     )
     (path "/1f7a19e5-e285-4bb1-bf4e-7d1ea9a40a35"
-      (reference "C1") (unit 1) (value "C_Polarized") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A")
+      (reference "C1") (unit 1) (value "100n 25V") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A")
     )
     (path "/0e0e6608-be18-4a36-8a5f-fc659e496bef"
       (reference "D1") (unit 1) (value "SOD4007") (footprint "Diode_SMD:D_SOD-123F")
@@ -1399,10 +1399,10 @@
     (path "/80f92d9a-5f30-4aa7-abbe-2a03b44d3c62"
       (reference "J1") (unit 1) (value "BM04B-SRSS-TBT(LF)(SN)") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
     )
-    (path "/d44ad972-8a51-43a4-b571-d28629d63fde"
+    (path "/487963d3-ed36-4ffe-bbc0-8af87b349b27"
       (reference "J2") (unit 1) (value "motor-connector") (footprint "motor-mount:motor-mount")
     )
-    (path "/047b9ede-dc55-4807-a86d-647ff742c18f"
+    (path "/c332f8cc-90f7-4adf-b7c8-5b9cae9f618d"
       (reference "J3") (unit 1) (value "motor-connector") (footprint "motor-mount:motor-mount")
     )
     (path "/027211cc-9745-45fd-aa4e-2bf54759e7b3"
