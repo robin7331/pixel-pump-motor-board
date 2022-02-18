@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (date "2022-02-18")
+    (rev "1")
+  )
+
   (lib_symbols
     (symbol "250X15W104MV4E:250X15W104MV4E" (pin_numbers hide) (pin_names (offset 1.651) hide) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 3.81 9.525 0)
