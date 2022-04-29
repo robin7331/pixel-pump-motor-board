@@ -13,15 +13,15 @@
   "tabs": {
     "type": "fixed",
     "width": "4mm",
-    "vcount": 1,
+    "vcount": 0,
     "hcount": 1
   },
   "cuts": {
     "type": "mousebites",
     "drill": "0.5mm",
-    "spacing": "1mm",
+    "spacing": "0.6mm",
     "offset": "0.2mm",
-    "prolong": "0.5mm"
+    "prolong": "0.2mm"
 },
   "framing": {
     "type": "frame",
