@@ -1150,7 +1150,7 @@
   (gr_text "MOTOR DRIVER" (at 71.15 60.425) (layer "F.SilkS") (tstamp 5d38c665-4b91-4613-a77a-cd8e6db73a81)
     (effects (font (size 0.65 0.65) (thickness 0.13)))
   )
-  (gr_text "Rev 1" (at 69 61.325) (layer "F.SilkS") (tstamp 66fe4aae-1aa3-437f-93c2-5ea39d765ac1)
+  (gr_text "Rev 2" (at 69 61.325) (layer "F.SilkS") (tstamp 66fe4aae-1aa3-437f-93c2-5ea39d765ac1)
     (effects (font (size 0.65 0.65) (thickness 0.13)))
   )
 
