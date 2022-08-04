@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (date "2022-02-18")
-    (rev "1")
+    (date "2022-08-04")
+    (rev "4")
   )
 
   (lib_symbols
@@ -710,7 +710,6 @@
       )
     )
   )
-
 
   (junction (at 133.985 74.93) (diameter 0.9144) (color 0 0 0 0)
     (uuid 0eaa98f0-9565-4637-ace3-42a5231b07f7)
