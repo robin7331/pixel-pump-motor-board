@@ -1166,7 +1166,7 @@
     (in_bom yes) (on_board yes)
     (uuid 80f92d9a-5f30-4aa7-abbe-2a03b44d3c62)
     (property "Reference" "J1" (id 0) (at 49.53 60.96 0))
-    (property "Value" "BM04B-SRSS-TBT(LF)(SN)" (id 1) (at 38.735 59.055 0))
+    (property "Value" "BM04B" (id 1) (at 38.735 59.055 0))
     (property "Footprint" "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical" (id 2) (at 49.53 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1456,7 +1456,7 @@
       (reference "D1") (unit 1) (value "SOD4007") (footprint "Diode_SMD:D_SOD-123F")
     )
     (path "/80f92d9a-5f30-4aa7-abbe-2a03b44d3c62"
-      (reference "J1") (unit 1) (value "BM04B-SRSS-TBT(LF)(SN)") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
+      (reference "J1") (unit 1) (value "BM04B") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
     )
     (path "/487963d3-ed36-4ffe-bbc0-8af87b349b27"
       (reference "J2") (unit 1) (value "motor-connector") (footprint "motor-mount:motor-mount")

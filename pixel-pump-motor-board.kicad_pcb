@@ -295,7 +295,7 @@
       (effects (font (size 0.65 0.65) (thickness 0.13)))
       (tstamp c7e36ebf-9704-433c-97a2-aafdf17c048a)
     )
-    (fp_text value "BM04B-SRSS-TBT(LF)(SN)" (at 0 3.3 90) (layer "F.Fab")
+    (fp_text value "BM04B" (at 0 3.3 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 103002f4-6f3d-4349-b4e9-1587302ed4c3)
     )
