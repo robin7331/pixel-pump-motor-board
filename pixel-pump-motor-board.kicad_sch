@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (date "2022-08-04")
+    (date "2023-01-31")
     (rev "4")
   )
 
@@ -1353,6 +1353,23 @@
     (pin "1" (uuid 3a7b7545-d546-498c-8eeb-b160a62007ec))
   )
 
+  (symbol (lib_id "Mechanical:Fiducial") (at 62.865 21.59 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid bf17c75a-8397-441d-98f1-eca78915375f)
+    (property "Reference" "FID3" (id 0) (at 66.04 20.3199 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Fiducial" (id 1) (at 66.04 22.8599 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm" (id 2) (at 62.865 21.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 62.865 21.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 105.41 62.865 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c0b14ad1-0cb5-4a68-a7e7-ba1dbec79705)
@@ -1523,6 +1540,9 @@
     )
     (path "/f653bc73-83d8-4dc4-8a75-da899e4932ac"
       (reference "FID2") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.5mm_Mask1mm")
+    )
+    (path "/bf17c75a-8397-441d-98f1-eca78915375f"
+      (reference "FID3") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.5mm_Mask1mm")
     )
     (path "/80f92d9a-5f30-4aa7-abbe-2a03b44d3c62"
       (reference "J1") (unit 1) (value "BM04B") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
