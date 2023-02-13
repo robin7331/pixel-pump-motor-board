@@ -2,4 +2,5 @@
   (lib (name "motor-mount")(type "KiCad")(uri "${KIPRJMOD}/components/motor-mount.kicad_sym")(options "")(descr ""))
   (lib (name "STN4NF20L")(type "Legacy")(uri "${KIPRJMOD}/components/STN4NF20L/STN4NF20L.lib")(options "")(descr ""))
   (lib (name "250X15W104MV4E")(type "Legacy")(uri "${KIPRJMOD}/components/250X15W104MV4E/250X15W104MV4E.lib")(options "")(descr ""))
+  (lib (name "kikit")(type "KiCad")(uri "${KIPRJMOD}/components/KiKit/kikit.kicad_sym")(options "")(descr ""))
 )
