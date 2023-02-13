@@ -1402,7 +1402,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 21c937c8-86a7-4403-85a9-b0c5ba07d59a)
     )
-    (fp_text value "motor-connector" (at 8.89 -10.668 unlocked) (layer "F.Fab")
+    (fp_text value "motor-connector" (at 5.0038 1.9812 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 167340d6-585c-45a6-abd3-64426720c91e)
     )

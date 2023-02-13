@@ -1,8 +1,8 @@
 {
   "layout": {
     "type": "grid",
-    "rows": 4,
-    "cols": 4,
+    "rows": 3,
+    "cols": 3,
     "space": "3mm",
     "vbackbone": "5mm",
     "vbonecut": false,
