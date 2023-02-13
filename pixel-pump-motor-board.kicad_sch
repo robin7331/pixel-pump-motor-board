@@ -1286,7 +1286,7 @@
   (symbol (lib_id "kikit:Tab") (at 199.39 45.085 0) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 7955651d-e9d7-4ddf-897b-611f0100c74b)
-    (property "Reference" "T?" (id 0) (at 204.47 43.1799 0)
+    (property "Reference" "T1" (id 0) (at 204.47 43.1799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Tab" (id 1) (at 204.47 45.7199 0)
@@ -1465,7 +1465,7 @@
   (symbol (lib_id "kikit:Tab") (at 216.535 45.085 0) (unit 1)
     (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a8816ebb-c11f-49cc-a261-ae6bea964554)
-    (property "Reference" "T?" (id 0) (at 221.615 43.1799 0)
+    (property "Reference" "T2" (id 0) (at 221.615 43.1799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Tab" (id 1) (at 221.615 45.7199 0)
@@ -1717,10 +1717,10 @@
       (reference "R2") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7955651d-e9d7-4ddf-897b-611f0100c74b"
-      (reference "T?") (unit 1) (value "Tab") (footprint "kikit:Tab")
+      (reference "T1") (unit 1) (value "Tab") (footprint "kikit:Tab")
     )
     (path "/a8816ebb-c11f-49cc-a261-ae6bea964554"
-      (reference "T?") (unit 1) (value "Tab") (footprint "kikit:Tab")
+      (reference "T2") (unit 1) (value "Tab") (footprint "kikit:Tab")
     )
     (path "/c99d9ee8-b4c6-4374-bb5b-0809ce253ad3"
       (reference "U1") (unit 1) (value "250X15W104MV4E") (footprint "250X15W104MV4E:250X15W104MV4E")
