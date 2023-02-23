@@ -379,19 +379,19 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_0-Default",
+        "nets": [
+          "Board_0-+12V",
+          "Board_0-GND",
+          "Board_0-Net-(D1-Pad2)",
+          "Board_0-Net-(Q1-Pad1)",
+          "Board_0-PWM"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0,
-        "nets": [
-          "Board_0-Net-(Q1-Pad1)",
-          "Board_0-PWM",
-          "Board_0-Net-(D1-Pad2)",
-          "Board_0-GND",
-          "Board_0-+12V"
-        ]
+        "wire_width": 6.0
       },
       {
         "bus_width": 6.0,
@@ -403,19 +403,19 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_1-Default",
+        "nets": [
+          "Board_1-+12V",
+          "Board_1-GND",
+          "Board_1-Net-(D1-Pad2)",
+          "Board_1-Net-(Q1-Pad1)",
+          "Board_1-PWM"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0,
-        "nets": [
-          "Board_1-Net-(D1-Pad2)",
-          "Board_1-GND",
-          "Board_1-Net-(Q1-Pad1)",
-          "Board_1-PWM",
-          "Board_1-+12V"
-        ]
+        "wire_width": 6.0
       },
       {
         "bus_width": 6.0,
@@ -427,19 +427,19 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_2-Default",
+        "nets": [
+          "Board_2-+12V",
+          "Board_2-GND",
+          "Board_2-Net-(D1-Pad2)",
+          "Board_2-Net-(Q1-Pad1)",
+          "Board_2-PWM"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0,
-        "nets": [
-          "Board_2-Net-(Q1-Pad1)",
-          "Board_2-GND",
-          "Board_2-PWM",
-          "Board_2-Net-(D1-Pad2)",
-          "Board_2-+12V"
-        ]
+        "wire_width": 6.0
       },
       {
         "bus_width": 6.0,
@@ -451,19 +451,19 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_3-Default",
+        "nets": [
+          "Board_3-+12V",
+          "Board_3-GND",
+          "Board_3-Net-(D1-Pad2)",
+          "Board_3-Net-(Q1-Pad1)",
+          "Board_3-PWM"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0,
-        "nets": [
-          "Board_3-GND",
-          "Board_3-PWM",
-          "Board_3-Net-(D1-Pad2)",
-          "Board_3-Net-(Q1-Pad1)",
-          "Board_3-+12V"
-        ]
+        "wire_width": 6.0
       },
       {
         "bus_width": 6.0,
@@ -475,19 +475,19 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_4-Default",
+        "nets": [
+          "Board_4-+12V",
+          "Board_4-GND",
+          "Board_4-Net-(D1-Pad2)",
+          "Board_4-Net-(Q1-Pad1)",
+          "Board_4-PWM"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0,
-        "nets": [
-          "Board_4-PWM",
-          "Board_4-Net-(D1-Pad2)",
-          "Board_4-Net-(Q1-Pad1)",
-          "Board_4-+12V",
-          "Board_4-GND"
-        ]
+        "wire_width": 6.0
       },
       {
         "bus_width": 6.0,
@@ -499,19 +499,19 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_5-Default",
+        "nets": [
+          "Board_5-+12V",
+          "Board_5-GND",
+          "Board_5-Net-(D1-Pad2)",
+          "Board_5-Net-(Q1-Pad1)",
+          "Board_5-PWM"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0,
-        "nets": [
-          "Board_5-Net-(D1-Pad2)",
-          "Board_5-GND",
-          "Board_5-+12V",
-          "Board_5-Net-(Q1-Pad1)",
-          "Board_5-PWM"
-        ]
+        "wire_width": 6.0
       },
       {
         "bus_width": 6.0,
@@ -523,19 +523,19 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_6-Default",
+        "nets": [
+          "Board_6-+12V",
+          "Board_6-GND",
+          "Board_6-Net-(D1-Pad2)",
+          "Board_6-Net-(Q1-Pad1)",
+          "Board_6-PWM"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0,
-        "nets": [
-          "Board_6-Net-(D1-Pad2)",
-          "Board_6-GND",
-          "Board_6-PWM",
-          "Board_6-Net-(Q1-Pad1)",
-          "Board_6-+12V"
-        ]
+        "wire_width": 6.0
       },
       {
         "bus_width": 6.0,
@@ -547,19 +547,19 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_7-Default",
+        "nets": [
+          "Board_7-+12V",
+          "Board_7-GND",
+          "Board_7-Net-(D1-Pad2)",
+          "Board_7-Net-(Q1-Pad1)",
+          "Board_7-PWM"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0,
-        "nets": [
-          "Board_7-PWM",
-          "Board_7-Net-(Q1-Pad1)",
-          "Board_7-GND",
-          "Board_7-Net-(D1-Pad2)",
-          "Board_7-+12V"
-        ]
+        "wire_width": 6.0
       },
       {
         "bus_width": 6.0,
@@ -571,19 +571,19 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_8-Default",
+        "nets": [
+          "Board_8-+12V",
+          "Board_8-GND",
+          "Board_8-Net-(D1-Pad2)",
+          "Board_8-Net-(Q1-Pad1)",
+          "Board_8-PWM"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0,
-        "nets": [
-          "Board_8-Net-(Q1-Pad1)",
-          "Board_8-GND",
-          "Board_8-+12V",
-          "Board_8-Net-(D1-Pad2)",
-          "Board_8-PWM"
-        ]
+        "wire_width": 6.0
       }
     ],
     "meta": {
