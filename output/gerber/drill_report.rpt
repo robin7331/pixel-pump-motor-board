@@ -1,5 +1,5 @@
 Drill report for pixel-pump-motor-board-panel.kicad_pcb
-Created on Mon Feb 13 13:45:34 2023
+Created on Fri Feb 24 20:43:10 2023
 
 Copper Layer Stackup:
     =============================================================
@@ -19,7 +19,7 @@ Drill file 'pixel-pump-motor-board-panel.drl' contains
 Not plated through holes are merged with plated holes
     unplated through holes:
     =============================================================
-    T3  0.500mm  0.0197"  (99 holes)
+    T3  0.500mm  0.0197"  (72 holes)
     T4  3.000mm  0.1181"  (4 holes)
 
-    Total unplated holes count 103
+    Total unplated holes count 76
