@@ -358,7 +358,7 @@
 
   (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical" (layer "F.Cu")
     (tedit 5B78AD87) (tstamp 35ffa9ce-444e-42fb-8095-d963deebeacb)
-    (at 87.95 59.1 90)
+    (at 87.5436 59.1 90)
     (descr "JST SH series connector, BM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST SH side entry")
     (property "MPN" "BM04B-SRSS-TBT(LF)(SN)")

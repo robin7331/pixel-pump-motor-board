@@ -1321,7 +1321,7 @@
     (uuid 80f92d9a-5f30-4aa7-abbe-2a03b44d3c62)
     (property "Reference" "J1" (id 0) (at 49.53 60.96 0))
     (property "Value" "BM04B-SRSS-TBT" (id 1) (at 38.735 59.055 0))
-    (property "Footprint" "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical" (id 2) (at 49.53 50.8 0)
+    (property "Footprint" "BM04B-SRSS-TBT:BM04B-SRSS-TBT" (id 2) (at 49.53 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 49.53 50.8 0)
@@ -1687,7 +1687,7 @@
       (reference "FID3") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.5mm_Mask1mm")
     )
     (path "/80f92d9a-5f30-4aa7-abbe-2a03b44d3c62"
-      (reference "J1") (unit 1) (value "BM04B-SRSS-TBT") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
+      (reference "J1") (unit 1) (value "BM04B-SRSS-TBT") (footprint "BM04B-SRSS-TBT:BM04B-SRSS-TBT")
     )
     (path "/487963d3-ed36-4ffe-bbc0-8af87b349b27"
       (reference "J2") (unit 1) (value "motor-connector") (footprint "motor-mount:motor-mount")
