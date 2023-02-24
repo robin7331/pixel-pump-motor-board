@@ -36,14 +36,14 @@
     "voffset": "3mm",
     "coppersize": "2mm",
     "opening": "1mm",
-    "paste": true
+    "paste": false
   },
   "tooling": {
     "type": "4hole",
     "size": "3mm",
     "hoffset": "4mm",
     "voffset": "7mm",
-    "paste": true
+    "paste": false
   },
   "text": {
     "type": "simple",
@@ -55,9 +55,9 @@
   },
   "copperfill": {
     "type": "hatched",
-    "clearance": "0.75mm",
-    "spacing": "0.75mm",
-    "width": "0.75mm"
+    "clearance": "0.5mm",
+    "spacing": "1mm",
+    "width": "2.5mm"
   },
   "post": {
     "millradius": "1mm"
